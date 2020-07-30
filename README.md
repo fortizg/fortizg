@@ -1,6 +1,6 @@
 ### Hello there 🤭
 
-![No Drama](dramatic.gif)
+![No Drama](https://github.com/fortizg/fortizg/blob/master/dramatic.gif)
 
 <!--
 **fortizg/fortizg** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
